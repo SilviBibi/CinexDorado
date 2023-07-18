@@ -1,0 +1,2 @@
+# CinexDorado
+Plataforma de películas
