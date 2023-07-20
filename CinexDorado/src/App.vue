@@ -67,7 +67,7 @@ async function crearDato() {
 
 <!-- <template>
   <div v-for="datos in miVariableReactiva.datos" :key="datos.id">
-  <h1>nombre: {{ datos.name }}</h1>
+  <h1>nombre: jhhhh {{ datos.name }}</h1>
   </div>
 </template> -->
 
